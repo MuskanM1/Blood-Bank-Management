@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Usage](#usage)
+* [Features](#Features)
 * [Summary](#Summary)
 * [Results](#Results)
 * [Report Link](#report-link)
