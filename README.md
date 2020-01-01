@@ -34,9 +34,9 @@ The program used to create this system will require dynamic memory since the num
 
 ## Results
 
+### USER FUNCTIONALITY
 ![Alt Text](https://github.com/MuskanM1/Blood-Bank-Management/blob/master/docs/screenshots/1.JPG)
 
-#### USER FUNCTIONALITY
 ![Alt Text](https://github.com/MuskanM1/Blood-Bank-Management/blob/master/docs/screenshots/2.JPG)
 
 ![Alt Text](https://github.com/MuskanM1/Blood-Bank-Management/blob/master/docs/screenshots/3.JPG)
@@ -49,7 +49,7 @@ The program used to create this system will require dynamic memory since the num
 
 ![Alt Text](https://github.com/MuskanM1/Blood-Bank-Management/blob/master/docs/screenshots/7.JPG)
 
-#### ADMIN FUNCTIONALITY
+### ADMIN FUNCTIONALITY
 
 ![Alt Text](https://github.com/MuskanM1/Blood-Bank-Management/blob/master/docs/screenshots/8.JPG)
 
