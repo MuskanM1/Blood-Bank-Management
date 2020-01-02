@@ -7,7 +7,6 @@
 * [Summary](#Summary)
 * [Results](#Results)
 * [Report Link](#report-link)
-* [Authors](#Authors)
 
 ## General info
 This project is Java implmentation implmentation that aims at maintaining all the information pertaining to blood donors, different blood groups available in each blood bank, processing requests for bottles of blood, and help them manage in a better way. We have used some data structures like linked list and array list which are dynamic in nature and hence would help us achieve our aim. 
@@ -62,7 +61,4 @@ The program used to create this system will require dynamic memory since the num
 ## Report Link
 https://drive.google.com/open?id=1bFs-6hs6GIYz1NB73rGcrLBfGF5DDNCA
 
-## Authors
-* Muskan Matwani (@MuskanM1)
-* Yesha Shastri
 
